@@ -2,7 +2,7 @@
  
 I'm a dual student in **Business Information Systems** at DHBW Mannheim, working at **SAP** as part of the STAR program combining academic studies with hands-on engineering rotations across global departments.
  
-My focus is on the intersection of software engineering, AI, and business — building things that are actually useful.
+My focus is on the intersection of software engineering, AI, and business.
  
 ---
  

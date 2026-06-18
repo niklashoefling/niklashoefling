@@ -9,7 +9,7 @@ My focus is on the intersection of software engineering, AI, and business.
 **Projects**
  
 - 🌐 **[Portfolio Website](https://niklas-hoefling.de)** — Personal site built with Next.js, React, Tailwind CSS & TypeScript, deployed on Vercel
-- 🌐 **[SG U.N.S. Rheinhessen Website](https://sgunsrheinhessen.de)** - Modern Next.js-based rebuild of a volleyball club website featuring Payload CMS, PostgreSQL, and cookieless analytics, deployed on Vercel.
+- 🏐 **[SG U.N.S. Rheinhessen Website](https://sgunsrheinhessen.de)** - Modern Next.js-based rebuild of a volleyball club website featuring Payload CMS, PostgreSQL, and cookieless analytics, deployed on Vercel.
 ---
  
 **Background**
